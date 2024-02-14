@@ -1,6 +1,6 @@
 # ENSF381-Lab5
-## Team members
+## Team Members
 | Name |
 |---------|
-| Petr Dubovsky 30171229 |
-| Muhammad Ahmed 10190776 |
+| Petr Dubovsky UCID: 30171229 |
+| Muhammad Ahmed UCID: 10190776 |
